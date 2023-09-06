@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tan Gemicioglu"
+title                    : "Yunnuo (Noah) Zhang"
 title_separator          : "-"
-name                     : &name "Tan Gemicioglu"
+name                     : &name "Yunnuo (Noah) Zhang"
 description              : &description "Personal website containing my portfolio & blog"
 url                      : https://tangemicioglu.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tangemicioglu/tangemicioglu.github.io"
+repository               : "NoahZhang1/noahzhang1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tan Gemicioglu"
-  pronouns         : "they/them"
-  avatar           : "profile.jpg"
-  bio              : "<b>PhD Student</b></br>Cornell University"
+  name             : "Yunnuo (Noah) Zhang"
+  pronouns         : "he/him/his"
+  avatar           : "profile.png"
+  bio              : "<b>Undergraduate Student</b></br>Georgia Tech"
   location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=l3r5twcAAAAJ&hl=en"
-  email            : "tgemici@gatech.edu"
+  email            : "yzhang3563@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,21 +97,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangemicioglu"
+  github           : "NoahZhang1"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tangemicioglu"
-  mastodon         : "https://hci.social/@tangemicioglu"
-  orcid            : "0000-0001-9324-4431"
+  linkedin         : "yunnuozhang1"
+  mastodon         : #"https://hci.social/@tangemicioglu"
+  orcid            : #"0000-0001-9324-4431"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "tangemicioglu"
+  twitter          : #"tangemicioglu"
   vine             :
   weibo            :
   xing             :
@@ -274,6 +274,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - tzinfo-data
+
 
 
 # Archives

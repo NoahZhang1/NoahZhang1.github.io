@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 <!-- <embed src="/files/CV.pdf" type="application/pdf" /> -->
-<embed src="{{ site.baseurl }}/files/CV.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/CV.pdf" width="400" height="300" type='application/pdf'> 

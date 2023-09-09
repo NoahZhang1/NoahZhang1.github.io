@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Localization of Working Memory using tfMRI"
 excerpt: "As part of Neuromatch Academy student collaboration, we investigated working memory activity through N-back tasks with different sequence lengths and stimuli based on the Human Connectome Project's task-based fMRI data. We localized and characterized prominent regions of activation using GLMs."
 teaser: "/images/working-memory.png"
@@ -11,4 +11,4 @@ links:
 - [slides, slides, /files/slides/working_memory.pptx]
 ---
 
-Writeup coming soon!
+Writeup coming soon! -->

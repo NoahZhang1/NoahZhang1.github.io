@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Yunnuo (Noah) Zhang.
+Hi, this is ***Yunnuo (Noah) Zhang***.
 
-I am currently a 4-th year student at [Georgia Tech](www.gatech.edu) majoring in computer science, where I am advised by [Dr. Thad Starner](https://www.cc.gatech.edu/home/thad/index.htm) and [Dr. Melody Jackson](https://faculty.cc.gatech.edu/~melody/). Currently, I am working as a research assistant intern at [Michigan State University](www.msu.edu) with [Dr. Jinxing Li](labli.net). 
+I am currently a senior year student at [Georgia Tech](www.gatech.edu) majoring in Computer Science, where I am advised by [Dr. Thad Starner](https://www.cc.gatech.edu/home/thad/index.htm) and [Dr. Melody Jackson](https://faculty.cc.gatech.edu/~melody/). Currently, I am working as a research assistant intern at [Michigan State University](www.msu.edu) with [Dr. Jinxing Li](labli.net). 
 
 I am interested in **brain-computer interface**, **electrophysiological sensing** and **bio-electronic** researches. I am not only interested but enthusiastic in transforming clinical and medical into everyday wearable technologies to help reduce the load of medical providers and provide day-to-day healthcare to the public. 
 

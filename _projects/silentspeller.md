@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "SilentSpeller: Silent Speech Text Entry using Electropalatography"
 excerpt: "Silent speech systems provide a means for communication to people with movement disabilities like muscular dystrophy while preserving privacy. SilentSpeller is the first-ever silent speech system capable of use with a >1000 word vocabulary while in motion. We made a novel text entry system with capacitive tongue sensing from an oral wearable device to enable a privacy-preserving alternative to speech recognition."
 teaser: "/images/silentspeller.png"
@@ -14,4 +14,4 @@ links:
 - [BuzzFeed, press, https://www.buzzfeednews.com/article/richardnieva/google-glass-creator-is-experimenting-with-a-smart-retainer]
 ---
 
-Writeup coming soon!
+Writeup coming soon! -->

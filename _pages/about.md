@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About <span class='align-right'>[日本語サイト](about_jp) | [中文](about_cn)"
+title: "About <span class='align-right'>"
 author_profile: true
 news: true
 featured: false
@@ -8,6 +8,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+&nbsp;
+&nbsp;
+
+<span class='align-right'>[日本語サイト](about_jp) | [中文](about_cn)
+
 &nbsp;
 &nbsp;
 

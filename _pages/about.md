@@ -8,8 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&nbsp;
-&nbsp;
 
 <span class='align-right'>[日本語サイト](about_jp) | [中文](about_cn)
 

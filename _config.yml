@@ -87,7 +87,7 @@ author:
   location         :
   employer         :
   pubmed           : 
-  googlescholar    :  # "https://scholar.google.com/citations?user=l3r5twcAAAAJ&hl=en"
+  googlescholar    :  
   email            : "yzhang3563@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -104,8 +104,8 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yunnuozhang"
-  mastodon         : #"https://hci.social/@tangemicioglu"
-  orcid            : #"0000-0001-9324-4431"
+  mastodon         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -1,5 +1,5 @@
 ---
-title: "没写完，还在修scss"
+title: "张允诺的个人网站"
 excerpt: ""
 sitemap: false
 # featured: true
@@ -7,4 +7,5 @@ author_profile: true
 permalink: /about_cn/
 ---
 
-别看别看
+你好，我是张允诺
+

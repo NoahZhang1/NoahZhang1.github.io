@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yunnuo (Noah) Zhang"
+title                    : "Yunnuo 'Noah' Zhang"
 title_separator          : "-"
-name                     : &name "Yunnuo (Noah) Zhang"
+name                     : &name "Yunnuo 'Noah' Zhang"
 description              : &description "Personal website containing my portfolio & blog"
 url                      : https://noahzhang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yunnuo (Noah) Zhang"
+  name             : "Yunnuo 'Noah' Zhang 张允诺"
   pronouns         : "he/him/his"
   avatar           : "profile.png"
   bio              : "<b>Undergraduate Student</b></br>Georgia Tech"

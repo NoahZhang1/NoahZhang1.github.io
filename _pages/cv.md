@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<!-- <embed src="/files/CV.pdf" type="application/pdf" /> -->
-<embed src="/files/CV.pdf" type='application/pdf'> 
+<embed src="/files/CV.pdf" type="application/pdf" />
+<!-- <embed src="/files/CV.pdf" type='application/pdf'>  -->

@@ -9,16 +9,16 @@ redirect_from:
   - /about.html
 ---
 
-<span class='align-right'>[日本語について](about_jp) | [中文](about_cn)
+<span class='align-right'>[Japanese](about_jp) | [Chinese](about_cn)
 
 &nbsp;
 &nbsp;
 
 Hi, this is ***Yunnuo (Noah) Zhang***.
 
-I am currently a senior year student at [Georgia Tech](https://www.gatech.edu) majoring in Computer Science, where I am advised by [Dr. Thad Starner](https://www.cc.gatech.edu/home/thad/index.htm) and [Dr. Melody Jackson](https://faculty.cc.gatech.edu/~melody/). Currently, I am working as a research assistant intern at [Michigan State University](https://www.msu.edu) with [Dr. Jinxing Li](https://www.labli.net). 
+I am currently a first year Master student at [Georgia Tech](https://www.gatech.edu) majoring in Computer Science, where I am advised by [Dr. Thad Starner](https://www.cc.gatech.edu/home/thad/index.htm) and [Dr. Melody Jackson](https://faculty.cc.gatech.edu/~melody/). Previously, I worked as a research assistant intern at [Michigan State University](https://www.msu.edu) with [Dr. Jinxing Li](https://www.labli.net), whom I was advised by with during my previous experience at Stanford University, Bao Group.
 
-I am interested in **brain-computer interface**, **electrophysiological sensing** and **bio-electronic** researches. I am not only interested but enthusiastic in transforming clinical and medical into everyday wearable technologies to help reduce the load of medical providers and provide day-to-day healthcare to the public, which includes but not limit to
+I am interested in **brain-computer interface**, **wearable sensing** and **bio-electronic** researches. I am not only interested but enthusiastic in transforming clinical and medical into everyday wearable technologies to help reduce the load of medical providers and provide day-to-day healthcare to the public, which includes but not limit to
 <ul style="font-size: 14px;">
   <li>Develop high performance soft, stretchable electrode interfaces to achieve imperceivable electrophysiological and electrochemical sensing in wearabing environment.</li>
   <li>Integrate more complex and universal sensing modalities to achieve integrated and combined sensing systems, including EEG, EMG, EOG, ECG, glucose, lactate or even hormone.</li>

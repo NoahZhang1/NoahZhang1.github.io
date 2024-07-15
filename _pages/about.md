@@ -8,6 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span class= 'align-right'>I am **Tri-lingual**!
 
 <span class='align-right'>[Japanese](about_jp) | [Chinese](about_cn)
 
@@ -16,7 +17,7 @@ redirect_from:
 
 Hi, this is ***Yunnuo (Noah) Zhang***.
 
-I am currently a first year Master student at [Georgia Tech](https://www.gatech.edu) majoring in Computer Science, where I am advised by Dr. Chethan Pandarinath at [snel](https://www.snel.ai) and [BrainGate Emory](https://www.braingate.org). I was honored to advised by [Dr. Thad Starner](https://www.cc.gatech.edu/home/thad/index.htm) and [Dr. Melody Jackson](https://faculty.cc.gatech.edu/~melody/) during my undergraduate, where I finished my thesis on wearable EEG-SSVEP sensors and pipeline. I also worked as a research assistant intern at [Michigan State University](https://www.msu.edu) with [Dr. Jinxing Li](https://www.labli.net), whom I was advised by with during my previous experience at Stanford University, Bao Group.
+I am currently a first year Master student at [Georgia Tech](https://www.gatech.edu) majoring in Computer Science, where I am advised by Dr. Chethan Pandarinath at [SNEL](https://www.snel.ai) and [BrainGate Emory](https://www.braingate.org). I was honored to advised by [Dr. Thad Starner](https://www.cc.gatech.edu/home/thad/index.htm) and [Dr. Melody Jackson](https://faculty.cc.gatech.edu/~melody/) during my undergraduate, where I finished my thesis on wearable EEG-SSVEP sensors and pipeline. I also worked as a research assistant intern at [Michigan State University](https://www.msu.edu) with [Dr. Jinxing Li](https://www.labli.net), whom I was advised by with during my previous experience at Stanford University, Bao Group.
 
 I am interested in **ML4 Health**, **Wearable Technology**, **HCI** and **Brain-computer Interface** researches. I am not only interested but enthusiastic in transforming clinical and medical into everyday wearable technologies to help reduce the load of medical providers and provide day-to-day healthcare to the public, which includes but not limit to
 <ul style="font-size: 14px;">
@@ -26,7 +27,7 @@ I am interested in **ML4 Health**, **Wearable Technology**, **HCI** and **Brain-
   <li>Machine learning on wearable data, data processing and analysis pipeline on personal health profile with wearable sensing data.</li>
 </ul>
 
-I am **Tri-lingual**, feel free to check site in any of the language shown above.
+<!-- I am **Tri-lingual**, feel free to check site in any of the language shown above. -->
 
 &nbsp;
 &nbsp;

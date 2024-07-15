@@ -9,7 +9,6 @@ redirect_from:
   - /about.html
 ---
 <span class= 'align-right'>I am **Tri-lingual**!
-
 <span class='align-right'>[Japanese](about_jp) | [Chinese](about_cn)
 
 &nbsp;

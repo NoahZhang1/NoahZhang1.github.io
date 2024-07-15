@@ -16,10 +16,6 @@ permalink: /about_jp/
 
 同担歓迎！普段はビジュアルノベルやアニメやJPOPが大好きなので交流いつでもオーケー！
 
-ヨルシカが大好き！これを聞ければ嬉しいです！
-<!-- Spotify player embed -->
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5nvA0EX0Itao5I6t89A7X2?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 私言語を学ぶことが好き！日本語を学ぶためのいくつかの攻略法をまとめました：
 
 <ul style="font-size: 15px;">
@@ -27,4 +23,8 @@ permalink: /about_jp/
   <li>たくさんのゲームをする</li>
   <li>たくさん楽しむ <------- <strong style="font-size: 20px"><u>これは大事！</u>！</strong></li>
 </ul>
+
+ヨルシカが大好き！これを聞ければ嬉しいです！
+<!-- Spotify player embed -->
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5nvA0EX0Itao5I6t89A7X2?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

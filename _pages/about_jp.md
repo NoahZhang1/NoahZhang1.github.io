@@ -12,11 +12,9 @@ permalink: /about_jp/
 
 私は日本語が話せます！
 
-2023年12月にJLPT N2に合格しました　（
+普段はビジュアルノベルやアニメやJPOPが大好きなので交流いつでもオーケー！同担歓迎！
 
-同担歓迎！普段はビジュアルノベルやアニメやJPOPが大好きなので交流いつでもオーケー！
-
-私言語を学ぶことが好き！日本語を学ぶためのいくつかの攻略法をまとめました：
+私言語を学ぶことが好き！日本語を学ぶためのいくつかの方法をまとめてみました：
 
 <ul style="font-size: 15px;">
   <li>たくさんのアニメを見る</li>
@@ -26,5 +24,5 @@ permalink: /about_jp/
 
 
 <!-- Spotify player embed -->
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5nvA0EX0Itao5I6t89A7X2?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1mWN1USPKg632qQXG9sfDL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

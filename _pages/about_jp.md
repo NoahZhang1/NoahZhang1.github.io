@@ -12,7 +12,18 @@ permalink: /about_jp/
 
 日本語が話せます！
 
-普段はビジュアルノベルやアニメやJPOPが大好きなので交流いつでもオーケー！同担歓迎！
+普段はビジュアルノベルやアニメやJPOPが大好きなので<a href="#" onclick="checkPassword()" style="text-decoration: none; color: inherit;">交流いつでもオーケー！同担歓迎！</a>
+
+<script>
+function checkPassword() {
+    const password = prompt("(´｡•᎑•`)っ");
+    if (password === "(´｡•᎑•`)っ") {
+        alert("https://bangumi.tv/user/731114");
+    } else {
+        alert("( ;´ - `;)");
+    }
+}
+</script>
 
 言語を学ぶことが好き！日本語を学ぶためのいくつかの方法をまとめてみました：
 

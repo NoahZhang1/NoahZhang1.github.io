@@ -1,5 +1,5 @@
 ---
-title: "自己紹介"
+title: ""
 excerpt: ""
 sitemap: false
 # featured: true

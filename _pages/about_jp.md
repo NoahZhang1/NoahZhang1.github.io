@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "自己紹介"
 excerpt: ""
 sitemap: false
 # featured: true
+author: "Yunnuo Zhang JP"
 author_profile: true
 permalink: /about_jp/
 ---
@@ -12,7 +13,7 @@ permalink: /about_jp/
 
 日本語が話せます！
 
-普段はビジュアルノベルやアニメやJPOPが大好きなので<a href="#" onclick="checkPassword()" style="text-decoration: none; color: inherit;">交流いつでもオーケー！同担歓迎！</a>
+普段はビジュアルノベルやアニメやJPOPが大好きなので<a href="#" onclick="checkPassword()" style="text-decoration: underline; color: #ff69b4;">交流いつでもオーケー！同担歓迎！</a>
 
 <script>
 function checkPassword() {
